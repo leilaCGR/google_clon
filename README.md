@@ -10,9 +10,15 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-
-
 ![Primera parte de la página web](https://ams3.digitaloceanspaces.com/graffica/2023/02/cocacola-logo.jpeg)
+
+
+Prueba:
+
+![prueba](captura_p.png)
+
+
+
 
 Experiencia:
 
