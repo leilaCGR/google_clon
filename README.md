@@ -5,7 +5,7 @@ Este proyecto es una practica realizada en tecnolochicas pro.
 
 Header de la página web:
 
-![Primera parte de la página web](imagenes/header.png)
+![Primera parte de la página web](header.png)
 
 
 
