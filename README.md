@@ -1,4 +1,4 @@
-# Clon de Google
+# Portafolio Adaptable (Responsive) con Bootstrap 5
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
@@ -10,31 +10,23 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](https://ams3.digitaloceanspaces.com/graffica/2023/02/cocacola-logo.jpeg)
-
-
-Prueba:
-
-![prueba](captura_p.png)
-
-
-
+![Primera parte de la página web](imagenes/screenshot1.png)
 
 Experiencia:
 
-![Experiencia](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pepsi_logo_%282014%29.svg/2560px-Pepsi_logo_%282014%29.svg.png)
+![Experiencia](imagenes/screenshot2.png)
 
 Proyectos:
 
-![Proyectos](https://1000marcas.net/wp-content/uploads/2021/04/Powerade-Logo.png)
+![Proyectos](imagenes/screenshot3.png)
 
 Testimonios:
 
-![Testimonios](https://upload.wikimedia.org/wikipedia/en/5/5d/Sangria-Senorial-Logo.png)
+![Testimonios](imagenes/screenshot4.png)
 
 Contacto:
 
-![Contacto](https://upload.wikimedia.org/wikipedia/commons/a/ab/Lulu_Hypermarket_logo.png)
+![Contacto](imagenes/screenshot5.png)
 
 ## Tecnologías
 
@@ -47,11 +39,9 @@ Esta página web fue creada con:
 
 Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
 
+## Español
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
 
 
