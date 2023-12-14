@@ -3,9 +3,21 @@
 Este proyecto es una practica realizada en tecnolochicas pro. 
 ### Capturas de pantalla:
 
-Primera parte de la página web:
+Header de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](imagenes/header.png)
+
+
+
+Body de la página web:
+
+![Primera parte de la página web](imagenes/body.png)
+
+Footer de la página web:
+
+![Primera parte de la página web](imagenes/footer.png)
+
+
 
 Esta página web fue creada con:
 
