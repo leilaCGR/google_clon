@@ -11,11 +11,11 @@ Header de la página web:
 
 Body de la página web:
 
-![Primera parte de la página web](imagenes/body.png)
+![Primera parte de la página web](body.png)
 
 Footer de la página web:
 
-![Primera parte de la página web](imagenes/footer.png)
+![Primera parte de la página web](footer.png)
 
 
 
